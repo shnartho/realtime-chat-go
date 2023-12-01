@@ -10,5 +10,4 @@ func main() {
 	if err != nil {
 		log.Fatalf("Could not initailize database connection: %s", err)
 	}
-
 }
